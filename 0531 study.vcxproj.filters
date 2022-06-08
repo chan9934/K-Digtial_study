@@ -30,12 +30,6 @@
     <ClCompile Include="C++2-1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="2-2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Soccurce.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="C++2-2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -45,13 +39,40 @@
     <ClCompile Include="C++2-4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sourcdfdfde.cpp">
+    <ClCompile Include="C++3-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++3-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++4-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++4-3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="employeestruct.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleClass.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
