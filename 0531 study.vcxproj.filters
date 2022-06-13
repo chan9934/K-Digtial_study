@@ -60,6 +60,15 @@
     <ClCompile Include="C++4-3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="0612 총정리1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0612총정리2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0612총정리3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="employeestruct.h">
