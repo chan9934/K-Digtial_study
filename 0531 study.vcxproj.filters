@@ -69,6 +69,21 @@
     <ClCompile Include="0612총정리3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CircleClass1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0612총정리4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++5-1main_exercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ 5-2 main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="employeestruct.h">
@@ -82,6 +97,15 @@
     </ClInclude>
     <ClInclude Include="Coin.h">
       <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleClass1.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="couter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="user.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
