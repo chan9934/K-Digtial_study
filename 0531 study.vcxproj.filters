@@ -75,14 +75,35 @@
     <ClCompile Include="0612총정리4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="C++5-1main_exercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="C++ 5-2 main.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++가  보이는 그림책 1장-1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++가  보이는 그림책 1장-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++가  보이는 그림책 1장-3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++가  보이는 그림책 1장-4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++가  보이는 그림책 5장 예시.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="counter test.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C++ 5-2 main test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="counter.cpp">
+      <Filter>Header Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -101,7 +122,7 @@
     <ClInclude Include="CircleClass1.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="couter.h">
+    <ClInclude Include="Counter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="user.h">
