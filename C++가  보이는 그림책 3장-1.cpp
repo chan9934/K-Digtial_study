@@ -4,6 +4,33 @@ using namespace	std;
 
 int sum(int a, int b, int x = 0, int y = 0, int z = 0);
 
+class myHouse
+{
+	int room;
+public:
+	myHouse();
+
+	myHouse()
+	{
+		int x;
+		int getRoom();
+	}
+};
+
+myHouse::getRoom()
+{
+	return room;
+}
+myHouse::myHouse()
+{
+	x = 0;
+}
+
+
+
+
+
+
 int main()
 {
 	sum(1, 3);
