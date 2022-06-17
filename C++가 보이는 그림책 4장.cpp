@@ -27,7 +27,13 @@ private:
 	int id;
 	char name[30];
 
-	enum Subjects { Math, English, Scinece };
+	
+};
+
+enum Subjects
+{
+	Math, English, Scinece
+};
 
 	class Exam
 	{
@@ -44,4 +50,17 @@ private:
 		Subjects subject;
 		int point;
 	};
-};
+
+
+	void Exam::SetInfo(int id, char* name, Subjects s, int num)
+	{
+		student.SetID(id);
+		student.SetName(name);
+		subject = s;
+		point = num;
+	}
+
+	void Exam::GetResult(char* buf) const
+	{
+		char* subname[] = { "수학", "영어", "과학" };
+		sprintf(bug, "%s :")
